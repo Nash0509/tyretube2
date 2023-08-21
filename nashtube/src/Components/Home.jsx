@@ -62,7 +62,7 @@ const Home = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const key = 'AIzaSyBEj9uDjtNOjQeyG7Nps3vOUO9raqAQsHU';
+        const key = 'AIzaSyD0-xrxcp7WKKSWA3Gw-8iY70O4U_wmgao';
         const apiUrl = `https://www.googleapis.com/youtube/v3/search?key=${key}&part=snippet&q=${term}&maxResults=20000`;
 
         const response = await fetch(apiUrl);
