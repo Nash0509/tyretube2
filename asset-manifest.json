@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tyretube2/static/css/main.aef45554.css",
+    "main.js": "/tyretube2/static/js/main.bf60cb7b.js",
+    "index.html": "/tyretube2/index.html",
+    "main.aef45554.css.map": "/tyretube2/static/css/main.aef45554.css.map",
+    "main.bf60cb7b.js.map": "/tyretube2/static/js/main.bf60cb7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aef45554.css",
+    "static/js/main.bf60cb7b.js"
+  ]
+}
